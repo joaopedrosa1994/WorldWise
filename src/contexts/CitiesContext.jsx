@@ -8,7 +8,7 @@ import {
 
 const CitiesContext = createContext();
 
-const BASE_URL = 'http://localhost:8000';
+const BASE_URL = 'https://db-maps.onrender.com';
 
 const initialState = {
   cities: [],
